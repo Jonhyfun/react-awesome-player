@@ -9,8 +9,6 @@ import PropTypes from 'prop-types';
 import ObjectPath from 'object-path'
 
 import videojs from 'video.js'
-import 'video.js/dist/video-js.css';
-import './index.css'
 
 const DEFAULT_STATE = {
   options: {
